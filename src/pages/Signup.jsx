@@ -61,7 +61,7 @@ const Signup = () => {
   }
 
   return (
-    <div className="flex justify-center bg-[#111827] px-4 py-12">
+    <div className="min-h-screen flex justify-center bg-[#111827] px-4 py-12">
       <div className="w-full flex flex-col justify-center items-center gap-y-6">
         <div>
           <GradientText className="text-2xl font-bold">DevFolio</GradientText>

@@ -6,7 +6,7 @@ import { motion } from "motion/react";
 
 const Navbar = () => {
   return (
-    <div className="bg-gray-900 py-[1rem] border-b border-gray-800 backdrop-blur">
+    <div className="fixed z-100 w-full bg-gray-900/10 py-[1rem] border-b border-gray-800 backdrop-blur">
       <div className="flex justify-between px-[2rem]">
         <div className="flex gap-x-[1.5rem]">
           <div className="text-white">Logo</div>

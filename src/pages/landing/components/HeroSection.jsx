@@ -1,7 +1,7 @@
 import React from "react";
-import GradientText from "./GradientText";
-import GradientButton from "./GradientButton";
-import { Button } from "./ui/button";
+import GradientText from "../../../components/GradientText";
+import GradientButton from "../../../components/GradientButton";
+import { Button } from "../../../components/ui/button";
 import { ArrowRight } from "lucide-react";
 import { Play } from "lucide-react";
 import { motion } from "motion/react";
